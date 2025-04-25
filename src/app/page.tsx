@@ -1,7 +1,6 @@
 "use client";
 import Image from "next/image";
 import Link from "next/link";
-import { GiEarthAmerica, GiDress, GiTrophy, GiRecycle } from "react-icons/gi";
 import { FaInstagram, FaTiktok } from "react-icons/fa";
 
 export default function Home() {
@@ -41,7 +40,7 @@ export default function Home() {
         </span>
       </h1>
       <p className="text-black hidden md:block">
-        "Discover timeless style and comfort. Embrace Halcy Hijab for a conscious, sustainable way to wear your faith."
+      &quot;Discover timeless style and comfort. Embrace Halcy Hijab for a conscious, sustainable way to wear your faith.&quot;
       </p>
       {/* Tombol Shop now */}
       <div className="flex flex-col md:flex-row gap-4 mt-4 relative">
@@ -379,13 +378,13 @@ export default function Home() {
         {/* Mission Statement */}
         <h4 className="text-2xl font-semibold text-gray-800 mb-4">Mission Statement</h4>
         <p className="text-black italic mb-8">
-          "To be the leading platform for sustainable and stylish hijabs, offering a range of fashion choices that embody both quality and environmental mindfulness."
+        &quot;To be the leading platform for sustainable and stylish hijabs, offering a range of fashion choices that embody both quality and environmental mindfulness.&quot;
         </p>
 
         {/* Vision Statement */}
         <h4 className="text-2xl font-semibold text-gray-800 mb-4">Vision Statement</h4>
         <p className="text-black italic mb-8">
-          "To inspire women everywhere to express their individuality through fashion that supports a greener world. We envision a future where every woman feels confident, stylish, and responsible while wearing Halcy Hijab as a step towards a more sustainable, ethical, and fashionable world."
+        &quot;To inspire women everywhere to express their individuality through fashion that supports a greener world. We envision a future where every woman feels confident, stylish, and responsible while wearing Halcy Hijab as a step towards a more sustainable, ethical, and fashionable world.&quot;
         </p>
 
         {/* Tombol Read More */}
@@ -466,7 +465,7 @@ export default function Home() {
         />
         <h3 className="text-lg font-semibold text-gray-800 mb-2">Sarah Johnson</h3>
         <p className="text-gray-600 mb-4">
-          "I absolutely love my Organic Cotton Hijab from Halcy Hijab! It’s not only stylish but also eco-friendly. Knowing that I’m making a positive impact on the environment with my purchase makes me feel great. Highly recommend this sustainable accessory!"
+        &quot;I absolutely love my Organic Cotton Hijab from Halcy Hijab! It’s not only stylish but also eco-friendly. Knowing that I’m making a positive impact on the environment with my purchase makes me feel great. Highly recommend this sustainable accessory!&quot;
         </p>
         {/* Bintang dan Emot Fixed di Bawah */}
         <div className="absolute bottom-4 left-0 right-0 flex justify-between items-center px-6">
@@ -510,7 +509,7 @@ export default function Home() {
         />
         <h3 className="text-lg font-semibold text-gray-800 mb-2">Mark Anderson</h3>
         <p className="text-gray-600 mb-4">
-          "The Bamboo Toothbrushes from Greenify are a game-changer! The quality is outstanding, and I love the fact that they are made from renewable bamboo. My oral care routine just got a lot greener, and I couldn’t be happier. Kudos to Greenify for offering such fantastic eco-friendly products!"
+        &quot;The Bamboo Toothbrushes from Greenify are a game-changer! The quality is outstanding, and I love the fact that they are made from renewable bamboo. My oral care routine just got a lot greener, and I couldn’t be happier. Kudos to Greenify for offering such fantastic eco-friendly products!&quot;
         </p>
         {/* Bintang dan Emot Fixed di Bawah */}
         <div className="absolute bottom-4 left-0 right-0 flex justify-between items-center px-6">
@@ -554,7 +553,7 @@ export default function Home() {
         />
         <h3 className="text-lg font-semibold text-gray-800 mb-2">Emily Lee</h3>
         <p className="text-gray-600 mb-4">
-          "I recently bought the Hemp Backpack from Greenify, and I must say it’s a fantastic investment! The durability of the hemp material is impressive, and I feel good knowing I’m choosing a sustainable alternative. This backpack is perfect for my outdoor adventures and daily commutes. Thumbs up for the eco-conscious design!"
+        &quot;I recently bought the Hemp Backpack from Greenify, and I must say it’s a fantastic investment! The durability of the hemp material is impressive, and I feel good knowing I’m choosing a sustainable alternative. This backpack is perfect for my outdoor adventures and daily commutes. Thumbs up for the eco-conscious design!&quot;
         </p>
         {/* Bintang dan Emot Fixed di Bawah */}
         <div className="absolute bottom-4 left-0 right-0 flex justify-between items-center px-6">
@@ -680,7 +679,7 @@ export default function Home() {
           />
         </div>
         <div className="p-6 flex flex-col flex-grow">
-          <h3 className="text-lg font-semibold text-gray-800 mb-2">Greenify's Guide to Eco-Friendly Shopping</h3>
+          <h3 className="text-lg font-semibold text-gray-800 mb-2">Greenify Guide to Eco-Friendly Shopping</h3>
           <p className="text-gray-600 mb-4 flex-grow">
             Reducing Your Carbon Footprint One Purchase at a Time
           </p>
