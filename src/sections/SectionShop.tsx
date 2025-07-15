@@ -5,7 +5,7 @@ export const SectionShop = () => {
   return (
     <section
   id="our-shop"
-  className="w-full min-h-screen flex items-center justify-center bg-white pt-35 pb-10"
+  className="w-full min-h-screen flex items-center justify-center bg-white lg:pt-35 pb-10 md:pt-10"
 >
   <div className="sm:px-6 lg:px-10 relative">
     {/* Elemen dekoratif kupu-kupu dan daun
