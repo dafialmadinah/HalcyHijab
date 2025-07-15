@@ -24,7 +24,7 @@ export const SectionWhy = () => {
       {/* Judul */}
       <div
         ref={titleRef}
-        className="hidden md:flex flex-row flex-wrap justify-center items-center gap-4 p-4 text-center lg:pb-50"
+        className="hidden md:flex flex-row flex-wrap justify-center items-center gap-4 p-4 text-center lg:pb-40"
       >
         <motion.h2
           initial={{ x: -100, opacity: 0 }}
