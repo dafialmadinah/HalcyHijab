@@ -7,23 +7,6 @@ export const SectionBlogs = () => {
       className="w-full min-h-screen flex items-center justify-center bg-[#ea3697] relative"
     >
       <div className="max-w-7xl px-4 sm:px-6 lg:px-8 py-12">
-        {/* Elemen dekoratif kupu-kupu dan daun
-        <div className="absolute top-4 left-4 z-10">
-          <Image
-            src="/kupuPutih.png" // Pastikan gambar ada di folder public
-            alt="Butterfly decoration"
-            width={50}
-            height={50}
-          />
-        </div>
-        <div className="absolute bottom-4 right-4 z-10">
-          <Image
-            src="/leaf.png" // Pastikan gambar ada di folder public
-            alt="Leaf decoration"
-            width={60}
-            height={60}
-          />
-        </div> */}
     
         {/* Judul */}
         <h2 className="text-4xl font-bold text-white text-center mb-12">
@@ -34,7 +17,7 @@ export const SectionBlogs = () => {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
           {/* Artikel 1 */}
           <div className="flex flex-col items-center text-center bg-white rounded-lg shadow-md overflow-hidden min-h-[450px]">
-            <div className="w-full h-64 bg-gray-200">
+            <div className="w-full h-64 bg-gray-200 p-">
               <Image
                 src="/blogs1.png"
                 alt="Embracing Sustainability"

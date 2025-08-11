@@ -24,19 +24,7 @@ export default function Home() {
     <SectionNews/>
     <SectionContact/>
 
-      {/* ABOUT US */}             
 
-
-        {/* CUstomer Review*/}
-        
-
-
-      {/* Section BLOGS */}
-      
-
-      {/* newsletter */}
-      
-{/* Section Contact Us (Footer) */}
 
     </main>
   );
